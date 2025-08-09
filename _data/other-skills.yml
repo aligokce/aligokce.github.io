@@ -1,7 +1,19 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Git
+  percentage: 70
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Bash
+  percentage: 50
   color: success
+
+- name: Vim
+  percentage: 30
+  color: success
+
+- name: Docker
+  percentage: 70
+  color: danger
+
+- name: Kubernetes
+  percentage: 30
+  color: secondary

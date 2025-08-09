@@ -6,9 +6,19 @@ weight: 3
 ---
 
 # **About Me**
+	Acoustics DSP and ML Engineer
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<br>
+<br>
+naive, idealist, and hard-working on interest<br>
+everything creative around make me the happiest<br>
+<br>
+long time listener, deep time talker, walker<br>
+through many troubles, one becomes a sailor<br>
+<br>
+jazz and a cappuccino after some fettuccine<br>
+now playing big blind but enjoying the game<br>
+
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

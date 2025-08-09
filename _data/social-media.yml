@@ -95,3 +95,14 @@ keybase:
   url   : https://www.keybase.io/
   icon  : fab fa-keybase
   color : 66ccff
+
+# ------
+lastfm:
+  url   : https://www.last.fm/user/
+  icon  : fab fa-lastfm
+  color : d51007
+
+goodreads:
+  url   : https://www.goodreads.com/
+  icon  : fab fa-goodreads
+  color : 553b08

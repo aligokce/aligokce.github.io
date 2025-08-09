@@ -1,17 +1,32 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Software Design Engineer @ Aselsan
+  from: 2020
+  to: 2025
+  description: Research, prototyping and development of an environmental seismic event classification project.
+               Data preparation, pre-processing, augmentation, and feature extraction for ML training on acoustic data.
+               Real-time embedded programming with employment of tiny DL networks and sound processing on STM32 boards.
+               Multi-GPU training and utilization of Docker containers on an NVIDIA DGX system.
+               Model optimization via TensorRT and X-CUBE AI.
+               Research and prototyping of deep learning approaches for an Environmental Sound
+               Classification project, using cross-modal transfer learning. Real-time deployment of DL
+               networks and sound processing with edge listening and live/oﬄine classification,
+               implemented using JUCE framework on Windows and Linux Embedded NVIDIA Jetson.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: MSc in Multimedia Informatics @ METU
+  from: 2020
+  to: 2023
+  description: Thesis on "Semi-blind estimation of direct-to-reverberant energy ratio and distance using residual energy test statistics".
+               Publication in 2024 IEEE ICASSP resulting in a live presentation to an audience in Seoul, Korea.
+               Research on "Distributed cooperative localisation of sound sources using spherical microphone arrays".
+
+- title: Engineer Candidate @ Aselsan
+  from: Dec 2019
+  to: Jul 2020
+  description: Machine Learning approaches for and system design of an 
+               Environmental Sound Classification project for aggression 
+               and emergency detection.
+
+- title: BSc in Electrical and Electronics Engineering @ METU
+  from: 2015
+  to: 2020
+  description: Studied "Communications" and "Signal Processing" options.
+               Graduated with Dean’s Honor.

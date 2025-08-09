@@ -1,11 +1,23 @@
-- name: HTML5/CSS3
-  percentage: 90
+- name: Python
+  percentage: 80
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
-
-- name: Python
+- name: C/C++
   percentage: 70
+  color: 
+
+- name: MATLAB
+  percentage: 60
+  color: 
+
+- name: CUDA
+  percentage: 50
   color: secondary
+
+- name: Torch
+  percentage: 80
+  color: danger
+
+- name: Librosa
+  percentage: 90
+  color: danger
