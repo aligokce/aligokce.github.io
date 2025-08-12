@@ -6,4 +6,7 @@ permalink: /photography/
 ---
 
 
-Under construction
+<br><br>
+<center>
+<i><h2>Under construction...</h2></i>
+</center>
