@@ -41,6 +41,11 @@ kaggle:
   icon  : fab fa-kaggle
   color : 20beff
 
+linkedin:
+  url   : https://www.linkedin.com/in/
+  icon  : fab fa-linkedin-in
+  color : 007bb5
+
 medium:
   url   : https://medium.com/@
   icon  : fab fa-medium
