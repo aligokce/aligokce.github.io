@@ -10,6 +10,8 @@ description: 2018-01-08
 
 2018-01-08
 
+EE213 Electrical Circuits Laboratory
+
 * * *
 
 {% include elements/figure.html image="213_photo.jpg" caption="Photo: Prototype on a single piece of breadboard" %}

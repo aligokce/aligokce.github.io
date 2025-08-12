@@ -10,6 +10,8 @@ description: 2018-06-04
 
 2018-06-04
 
+EE214 Electronic Circuits Laboratory
+
 * * *
 
 In my 2nd year in Bachelor’s on Electrical and Electronics Engineering, I designed a wireless fire detection system for the Electrical Circuits Laboratory II. It basically gets the temperature data from its sensors, transmits this information via sound, and an LED is switched on at the receiver end, representing the detection.

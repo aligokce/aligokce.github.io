@@ -10,13 +10,13 @@ description: 2019-11-23
 
 2019-11-23
 
-* * *
-
-Undergraduate research, Oct 2019 - present.
+Undergraduate research, Oct 2019 - Jul 2020
 
 [METU Spatial Audio Research Group (METU SPARG)](http://sparg.ii.metu.edu.tr/)
 
 _Advisor: [Huseyin Hacihabiboglu, Ph.D., SMIEEE](http://www.hacihabiboglu.org/)_.
+
+* * *
 
 Topic: Guitar modeling and simulation using Extended Karplus-Strong algorithm.
 

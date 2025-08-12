@@ -1,6 +1,6 @@
 ---
 name: Paper presentation at 2024 IEEE ICASSP
-tools: [academic, masters]
+tools: [conference, academic, masters]
 image: /30AE8623-8E8C-4CC9-ABD8-8EC8647BF6DE.JPG
 description: 2024-04-16
 ---

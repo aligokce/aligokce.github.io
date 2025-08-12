@@ -10,6 +10,8 @@ description: 2020-01-15
 
 2020-01-15
 
+EE430 Digital Signal Processing
+
 * * *
 
 In this project, we have designed and implemented a system that will transmit voice from one computer to another by using acoustic waves as the communication medium. The transmitter-side computer captures the voice using a microphone, process it and transmit acoustic waves from its speakers. The receiver-side computer receives the transmitted acoustic waves with its microphone, process it and play back the reconstructed voice from its speakers.

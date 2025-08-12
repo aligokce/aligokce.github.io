@@ -1,6 +1,6 @@
 ---
 name: Footstep Sound Effect Synthesis Using State Space Models (SSM) Architecture
-tools: [lectures, masters]
+tools: [academic, lectures, masters]
 image: /image.png
 description: 2022-07-01
 ---
@@ -10,7 +10,7 @@ description: 2022-07-01
 
 2022-07-01
 
-MMI711
+MMI711 Sequence Models in Multimedia
 
 * * *
 

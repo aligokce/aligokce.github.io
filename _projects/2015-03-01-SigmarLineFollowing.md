@@ -1,6 +1,6 @@
 ---
 name: Line Following Robot
-tools: [lectures]
+tools: [extracurricular, prep school]
 image: /line_following_2.jpeg
 description: 2015-03-01
 ---

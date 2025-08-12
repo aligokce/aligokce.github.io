@@ -10,7 +10,7 @@ description: 2019-09-03
 
 2019-09-03
 
-Supervised by Lütfi Murat Gevrekçi
+Supervised by Lütfi Murat Gevrekçi, PhD
 
 * * *
 

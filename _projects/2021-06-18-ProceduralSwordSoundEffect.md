@@ -10,7 +10,7 @@ description: 2021-06-18
 
 2021-06-18
 
-MMI522
+MMI522 Procedural Sound Design
 
 * * *
 

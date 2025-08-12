@@ -10,6 +10,8 @@ description: 2019-01-22
 
 2019-01-22
 
+EE313 Analog Electronics Laboratory
+
 * * *
 
 In my 3rd year in Bachelor's, I designed an optical wireless communication system for Analog Electronics Laboratory. This is a modified version of Bell's [photophone](https://en.wikipedia.org/wiki/Photophone) using electrical modulation of transmitted light. The design only consists of analog electronic components.

@@ -1,5 +1,5 @@
 ---
-name: Predicting Mouse Movements using Kalman Filters via LabVIEW and custom C library in LabWindows/CVI
+name: Predicting Mouse Movements using Kalman Filters
 tools: [lectures, bachelors]
 image: /kalman_front_panel.png
 description: 2020-06-01
@@ -9,6 +9,8 @@ description: 2020-06-01
 ## Predicting Mouse Movements using Kalman Filters via LabVIEW and custom C library in LabWindows/CVI
 
 2020-06-01
+
+EE433 Real-Time Applications of Digital Signal Processing
 
 * * *
 

@@ -10,6 +10,8 @@ description: 2019-06-15
 
 2019-06-15
 
+EE314 Digital Circuits Laboratory
+
 * * *
 
 In my 3rd year on Electrical and Electronics Engineering in METU, me and my project partner, designed a pinball game that works on a De1-SoC FPGA board. The game is written in Verilog HDL. It consists of all basic elements of a pinball game: targets, boundaries, flippers, plunger, timer and a scoreboard. The game is playable via buttons on the FPGA board.

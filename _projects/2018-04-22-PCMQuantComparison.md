@@ -10,6 +10,8 @@ description: 2018-04-22
 
 2018-04-22
 
+EE230 Probability and Random Variables
+
 * * *
 
 In my 2nd year in Bachelor's, for EE230 Probability and Random Variables course, I analysed different quantization techniques for speech encoding, that converts an analog signal, which is mostly a human speech in the case of telephony, into a digital signal.
