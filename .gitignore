@@ -7,3 +7,7 @@
 
 # IntelliJ
 .idea
+
+# Misc
+.DS_Store
+_site/

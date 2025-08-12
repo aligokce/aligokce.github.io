@@ -1,0 +1,11 @@
+- name: STM32
+  percentage: 70
+  color: 
+
+- name: Jetson
+  percentage: 60
+  color: success
+
+- name: ESP32
+  percentage: 40
+  color: secondary

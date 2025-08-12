@@ -1,32 +1,59 @@
-- title: Software Design Engineer @ Aselsan
+- title: Software Design Engineer @ <a href="https://en.wikipedia.org/wiki/Aselsan">Aselsan</a>
   from: 2020
   to: 2025
-  description: Research, prototyping and development of an environmental seismic event classification project.
-               Data preparation, pre-processing, augmentation, and feature extraction for ML training on acoustic data.
-               Real-time embedded programming with employment of tiny DL networks and sound processing on STM32 boards.
-               Multi-GPU training and utilization of Docker containers on an NVIDIA DGX system.
-               Model optimization via TensorRT and X-CUBE AI.
-               Research and prototyping of deep learning approaches for an Environmental Sound
-               Classification project, using cross-modal transfer learning. Real-time deployment of DL
-               networks and sound processing with edge listening and live/oﬄine classification,
-               implemented using JUCE framework on Windows and Linux Embedded NVIDIA Jetson.
+  description: 
+    Research, prototyping and development of a deep learning based environmental seismic event classification project.
+    Preparation, pre-processing, augmentation, and feature extraction for ML training on acoustic data.
+    <br>
+    <a href="https://huggingface.co/docs/transformers/en/perf_train_gpu_many">Multi-GPU training</a> and utilization of Docker containers on an <a href="https://www.nvidia.com/en-in/data-center/dgx-1/">NVIDIA DGX</a> system.
+    Model optimization via <a href="https://developer.nvidia.com/tensorrt">TensorRT</a> and <a href="https://www.st.com/en/embedded-software/x-cube-ai.html">X-CUBE AI</a>.
+    Real-time embedded programming with employment of tiny DL networks and sound processing on <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html">STM32</a> boards.
+    <br>
+    Research and prototyping of deep learning approaches for an Environmental Sound
+    Classification project, using <a href="https://en.wikipedia.org/wiki/Crossmodal">cross-modal</a> transfer learning. Real-time deployment of DL
+    networks and sound processing with edge listening and live/offline classification,
+    implemented using <a href="https://juce.com/">JUCE</a> framework on Windows and Linux Embedded NVIDIA Jetson.
 
-- title: MSc in Multimedia Informatics @ METU
+
+- title: MSc in <a href="http://mmi.ii.metu.edu.tr/about">Multimedia Informatics</a> @ <a href="https://www.metu.edu.tr">METU</a>
   from: 2020
   to: 2023
-  description: Thesis on "Semi-blind estimation of direct-to-reverberant energy ratio and distance using residual energy test statistics".
-               Publication in 2024 IEEE ICASSP resulting in a live presentation to an audience in Seoul, Korea.
-               Research on "Distributed cooperative localisation of sound sources using spherical microphone arrays".
+  description:
+    Research on <i>Distributed cooperative localisation of sound sources using spherical microphone arrays</i>.
+    <br>
+    <a href="https://open.metu.edu.tr/handle/11511/105379">Thesis</a> on <i>Semi-blind estimation of direct-to-reverberant energy ratio and distance using residual energy test statistics</i>.
+    <a href="https://scholar.google.com.tr/citations?user=t_VTLgEAAAAJ">Publication in 2024 IEEE ICASSP</a> resulting in <a href="/projects/icassp-2024">a live presentation</a> to an audience in Seoul, Korea.
+    
+- title: Student Researcher @ <a href="http://sparg.ii.metu.edu.tr/">METU Spatial Audio Research Group</a>
+  from: 2019
+  to: active
+  description: 
+      Direction-of-Arrival estimation and Microphone Array Position Calibration techniques for <a href="https://www.imperial.ac.uk/speech-audio-processing/projects/spherical-microphone-arrays/">Spherical Microphone Arrays</a>, employing <a href="https://en.wikipedia.org/wiki/Spherical_harmonics">Spherical Harmonics</a> theory and statistics exploring <a href="https://en.wikipedia.org/wiki/Ambisonics">ambisonics</a> and spatial audio. 
+      At the undergraduate level, made a guitar simulation using the <a href="https://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis">Extended Karplus-Strong Algorithm</a> written in <a href="https://en.wikipedia.org/wiki/ChucK">ChucK</a> programming language.
 
-- title: Engineer Candidate @ Aselsan
+- title: Engineer Candidate @ <a href="https://en.wikipedia.org/wiki/Aselsan">Aselsan</a>
   from: Dec 2019
   to: Jul 2020
-  description: Machine Learning approaches for and system design of an 
-               Environmental Sound Classification project for aggression 
-               and emergency detection.
+  description: 
+    Research on Machine Learning approaches for and <a href="https://en.wikipedia.org/wiki/Systems_design">system design</a> of an 
+    Environmental Sound Classification project for <a href="https://www.soundintel.com/products/overview/aggression/">aggression and emergency detection</a>.
 
-- title: BSc in Electrical and Electronics Engineering @ METU
+- title: BSc in <a href="https://eee.metu.edu.tr/information">Electrical - Electronics Engineering</a> @ <a href="https://www.metu.edu.tr">METU</a>
   from: 2015
   to: 2020
-  description: Studied "Communications" and "Signal Processing" options.
-               Graduated with Dean’s Honor.
+  description:
+      CGPA 3.33 / 4.00, graduated with Dean’s Honour.
+      <br>
+      Studied <i>Communications</i> and <i>Signal Processing</i> options.
+
+- title: Summer Intern @ <a href="https://en.wikipedia.org/wiki/Aselsan">Aselsan</a>
+  from: 2019 
+  to: (1 mo)
+  description:
+      Research and implementation of Direction-of-Arrival estimation and <a href="https://dcase.community/challenge2019/task-sound-event-localization-and-detection">Sound Event Localisation and Detection</a> systems featuring Deep Neural Network techniques.
+
+- title: Summer Intern @ <a href="https://www.wearedvm.com/about-us">DVM IoT Solutions</a>
+  from: 2018 
+  to: (1 mo)
+  description:
+      Internet of Things implementation of a <a href="https://en.wikipedia.org/wiki/Smart_meter">smart meter</a>ing system. Integration with a cloud IoT platform, ARM development and <a href="http://gnu-mcu-eclipse.github.io">open-source migration</a>, UART and <a href="https://en.wikipedia.org/wiki/Meter-Bus">M-BUS</a> protocols.

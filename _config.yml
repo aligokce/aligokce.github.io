@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : Ali Gökçe
 description         : >-
-                      Interested in music and creative technologies. 
-                      Experienced in signal processing, deep learning training and optimisation,
-                      audio plugin development, room and vibrational acoustics.
+                      Audio ML Research Engineer
 baseurl             : ""                               # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : aligokce/aligokce.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU

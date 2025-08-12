@@ -1,14 +1,14 @@
 - name: Git
   percentage: 70
-  color: info
+  color: 
 
 - name: Bash
   percentage: 50
   color: success
 
 - name: Vim
-  percentage: 30
-  color: success
+  percentage: 40
+  color: secondary
 
 - name: Docker
   percentage: 70
@@ -16,4 +16,4 @@
 
 - name: Kubernetes
   percentage: 30
-  color: secondary
+  color: 
