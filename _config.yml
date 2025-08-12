@@ -66,11 +66,11 @@ collections:
 #   shortname: your-short-name-disqus                     # Your website Shortname on disqus
 
 
-# ### Analytics ###
-# analytics:
-#   enabled: false                                        # Set true to enable analytics
-#   google:
-#     tracking_id: your-google-tracking-id
+### Analytics ###
+analytics:
+  enabled: true                                        # Set true to enable analytics
+  google:
+    tracking_id: G-Q1HQK3K20X
 
 
 # ### Buy me a coffee ###
