@@ -97,12 +97,37 @@ keybase:
   color : 66ccff
 
 # ------
+signal:
+  url   : https://signal.me/#u/
+  icon  : fab fa-signal-messenger
+  color : 2d72d9
+
+gscholar:
+  url   : https://scholar.google.com.tr/citations?user=
+  icon  : fab fa-google-scholar
+  color : 2f7fee
+
+orcid:
+  url   : https://orcid.org/
+  icon  : fab fa-orcid
+  color : 89d23f
+
 lastfm:
   url   : https://www.last.fm/user/
   icon  : fab fa-lastfm
   color : d51007
 
+trakt:
+  url   : https://trakt.tv/users/
+  icon  : fas fa-camera-movie
+  color : d2235a
+
 goodreads:
   url   : https://www.goodreads.com/
   icon  : fab fa-goodreads
   color : 553b08
+
+musescore:
+  url   : https://musescore.com/
+  icon  : fas fa-record-vinyl
+  color : 000d6d

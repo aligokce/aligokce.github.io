@@ -25,27 +25,22 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Ali Gökçe
   image             : https://avatars.githubusercontent.com/u/44004718
-  # behance           : your_username
-# dribbble          : your_username
-  # email             : username@domain.com
-  # facebook          : your_username
-  github            : aligokce
-# gitlab            : your_username
+  
   instagram         : aliigokce
-# kaggle            : your_username
-  linkedin          : ali-gokce
-  # medium            : your_username
-# soundcloud        : your_username
-  # spotify           : aliigokce
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
   twitter           : aliigokce
-# vimeo             : your_username
-# youtube           : your_channel_name
-# keybase           : your_username
+  signal            : aliigokce.33
+
+  linkedin          : ali-gokce
+  github            : aligokce
+  gscholar          : t_VTLgEAAAAJ
+  orcid             : 0000-0001-8810-0740
+
   lastfm            : eyelay7
+  trakt             : aligokce
   goodreads         : aliigokce
+
+  spotify           : aliigokce
+  musescore         : aligokce
 
 
 ### Posts ###
