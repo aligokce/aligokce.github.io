@@ -4,6 +4,7 @@ tags: [Blog Post]
 style: fill
 color: success
 description: An extensive outline of what I've gathered in life, philosophically, so far
+comments: true
 # external_url: 
 ---
 
